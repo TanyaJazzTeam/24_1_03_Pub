@@ -8,7 +8,7 @@ msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
-msgstr "Une capture d'écran du site Web."
+msgstr "Une capture d'écran du site Web.gf"
 
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials"
