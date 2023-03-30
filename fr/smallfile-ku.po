@@ -6,6 +6,10 @@ msgstr "Une capture d'écran d'un site Web utilisant AMP."
 msgid "A screenshot showing amp-sidebar."
 msgstr "Une capture d'écran montrant amp-sidebar."
 
+#: /views/partials/footer.j2:23
+msgid "AMP"
+msgstr "Cadre"
+
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
 msgstr "Une capture d'écran du site Web."
