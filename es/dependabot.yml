@@ -13,7 +13,7 @@ updates:
   - dependency-name: búsqueda de nodo
     update-types:
     - 'actualización de versión: semver-major'
-  - dependency-name: Ava
+  - dependency-name:
     update-types:
     - 'actualización de versión: semver-major'
   - dependency-name: regla de pelusa unificada
