@@ -10,7 +10,6 @@ updates:
   ignore:
   - dependency-name: observación*
     update-types:
-    - 'actualización de versión: semver-major'
   - dependency-name: búsqueda de nodo
     update-types:
     - 'actualización de versión: semver-major'
